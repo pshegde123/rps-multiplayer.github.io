@@ -1,0 +1,14 @@
+.form-inline{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+}
+#player{
+    width: 300px;
+}
+#submit{
+    margin-left: 20px;
+}
+.pre-login{
+    margin-left:30%;
+}
